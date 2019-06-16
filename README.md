@@ -3,7 +3,7 @@ A simple real-time messaging budget chat app built with Google Firebase. A priva
 
 
 ![FlashChatAppDemo1](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1113.PNG)
-![FlashChatAppDemo1](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/Image-1.jpg)
+![FlashChatAppDemo2](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1118.PNG)
 ![FlashChatAppDemo3](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1115.PNG)
 
 
