@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Firebase
 
 
 @UIApplicationMain
@@ -18,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         //TODO: Initialise and Configure your Firebase here:
-        
+        FirebaseApp.configure()
         
         return true
     }
@@ -48,15 +49,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
-//MARK: - Uncomment this only once you've gotten to Step 14.
-    /*
-    
-let APP_ID = "5H62DKM7JuG6kBBzVICydweQkSQTZD8vsFtoEEew"
-let CLIENT_KEY = "UMkw6hwriImwSAEtwxlMbrJXtcccrTR6jdcRS9IN"
-    
-*/
-
 
 }
 
