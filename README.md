@@ -1,8 +1,8 @@
 # Demo
 A simple real-time messaging budget chat app built with Google Firebase. A private chat app you can use with friends or family!
-![FlashChatAppDemo1]()
-![FlashChatAppDemo2]()
-![FlashChatAppDemo3]()
+![FlashChatAppDemo1](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1113.PNG)
+![FlashChatAppDemo2](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1114.PNG)
+![FlashChatAppDemo3](https://github.com/Phissix/BudgetFlashChat/blob/master/demo/IMG_1115.PNG)
 
 # Skills Learned
 - Firebase setup and usage
